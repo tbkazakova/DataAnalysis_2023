@@ -12,6 +12,8 @@
 
 ## Часть 2. Jupyter Notebook
 
-Проверьте, что у вас установлен Jupyter Notebook. Если вдруг нет, воспользуйтесь [инструкцией](https://edu.hse.ru/pluginfile.php/2117678/mod_lesson/intro/%D0%B7%D0%B4%D0%B5%D1%81%D1%8C.pdf).
+Установите Jupyter Notebook. Воспользуйтесь [инструкцией](https://edu.hse.ru/pluginfile.php/2117678/mod_lesson/intro/%D0%B7%D0%B4%D0%B5%D1%81%D1%8C.pdf).
 
-***P.S.** Можно начинать смотреть онлайн-курс.*
+Если не получается, пишите нам!
+
+***P.S.** Посмотреть тетрадку с семинара, спросить непонятное.*
