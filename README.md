@@ -7,7 +7,8 @@
 
 #### [Учебник по анализу данных](https://edu.hse.ru/course/view.php?id=136231)
 #### [Подготовка к экзамену по АнДану](https://edu.hse.ru/course/view.php?id=133864)
-#### [Ведомость](https://docs.google.com/spreadsheets/d/1n43-kBVjc6db9WfeQ-YEvq8jrao_SZUXk9K_4uSZNcg/edit?usp=sharing)
+
+**[Ведомость]**(https://docs.google.com/spreadsheets/d/1n43-kBVjc6db9WfeQ-YEvq8jrao_SZUXk9K_4uSZNcg/edit?usp=sharing)
 
 ## Наши встречи
 
@@ -21,7 +22,7 @@
 
 - Таня Казакова: 4 группа (@tbkazak, tanusha.kazakova@gmail.com)
 
-- Настя Кловайт: лекции в 4м модуле
+- Настя Кловайт: лекции в 4м модуле по андану
 
 Есть общий чат в тг.
 
