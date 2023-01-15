@@ -8,7 +8,6 @@
 #### [Учебник по анализу данных](https://edu.hse.ru/course/view.php?id=136231)
 #### [Подготовка к экзамену по АнДану](https://edu.hse.ru/course/view.php?id=133864)
 ------------
-**[Ведомость](https://docs.google.com/spreadsheets/d/1n43-kBVjc6db9WfeQ-YEvq8jrao_SZUXk9K_4uSZNcg/edit?usp=sharing)**
 ## Наши встречи
 
 |когда|тема|материалы|дз|
