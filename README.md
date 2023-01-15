@@ -12,7 +12,7 @@
 
 |когда|тема|материалы|дз|
 |---|---|---|---|
-|13.01|Вводный семинар. Python. Арифметика и типы данных| [тетрадка](01-intro/230113_python_intro.ipynb) |[HW1](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW1.md)|
+|13.01|Вводный семинар. Python. Арифметика и типы данных| [тетрадка о курсе и программировании](01-intro/230113_python_intro_about.ipynb) <br/> [тетрадка по арифметике и типах данных](01-intro/230113_python_intro_arithmetic.ipynb) |[HW1](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW1.md)|
 |20.01||||
 |27.01||||
 
