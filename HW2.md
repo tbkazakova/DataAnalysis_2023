@@ -21,7 +21,9 @@
 
 Номер варианта можно посмотреть в ведомости (ссылка в тг).
 
-Тетрадку .ipynb нужно загрузить по [ссылке](https://classroom.github.com/a/gCzDH_MR). 
+Тетрадку .ipynb нужно загрузить по [ссылке](https://classroom.github.com/a/gCzDH_MR).
+
+[Инструкция и мастер-класс](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/github_guide.md) по загрузке дз.
 
 ## Часть 2. Онлайн-курс
 
