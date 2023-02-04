@@ -179,7 +179,6 @@ real_short_words = pers + interrogative + demonstrative + conjunctions + preposi
 ```
 
 
-
 - Вариант 1 - 1, 3 задания
 - Вариант 2 - 2, 3 задания
 - Вариант 3 - 1, 4 задания
@@ -188,7 +187,7 @@ real_short_words = pers + interrogative + demonstrative + conjunctions + preposi
 
 Номер варианта можно посмотреть в ведомости (ссылка в тг).
 
-Тетрадку .ipynb нужно загрузить по [ссылке](to be announced). 
+Тетрадку .ipynb нужно загрузить по [ссылке](https://classroom.github.com/a/JOfJt_Bs). 
 
 ## Часть 2. Онлайн-курс
 
