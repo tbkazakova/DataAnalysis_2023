@@ -17,7 +17,8 @@
 |24.01 (4 группа), 27.01 (1-3 группы)|Циклы while|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230124_while.ipynb)|[HW3](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW3.md)|
 |27.01 (4 группа), 03.02 (1-3 группы)|Списки, кортежи, циклы for|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230127_listfor.ipynb)|[HW4](/HW4.md)|
 |07.02 (4 группа), 10.02 (1-3 группы)|Методы списков|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230207_methods.ipynb)| [HW5](/HW5.md) |
-|14.02 (4 группа), 17.02 (1-3 группы)|Методы строк|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230214_strmethods.ipynb)|[HW6]|
+|14.02 (4 группа), 17.02 (1-3 группы)|Методы строк|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230214_strmethods.ipynb)|[HW5](/HW5.md)|
+|17.02 (4 группа), ?? (1-3 группы)|Множества и словари|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230217_setdict.ipynb)|[HW6]|
 
 ### Преподаватели:
 
