@@ -19,7 +19,8 @@
 |07.02 (4 группа), 10.02 (1-3 группы)|Методы списков|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230207_methods.ipynb)| [HW5](/HW5.md) |
 |14.02 (4 группа), 17.02 (1-3 группы)|Методы строк|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230214_strmethods.ipynb)|[HW6](/HW6.ipynb)|
 |17.02 (4 группа), ?? (1-3 группы)|Множества и словари|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230217_setdict.ipynb)|[HW7](/HW7.md)|
-|3.03 (4 группа), ?? (1-3 группы)|Словари, сортировки, вложенные структуры|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230303_dict_sort_structures.ipynb)|[HW8]|
+|3.03 (4 группа), ?? (1-3 группы)|Словари, сортировки, вложенные структуры|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230303_dict_sort_structures.ipynb)||
+|10.03 (4 группа), ?? (1-3 группы)|Функции|[тетрадка]|[HW8]|
 
 ### Преподаватели:
 
