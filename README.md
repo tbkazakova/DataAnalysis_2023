@@ -21,8 +21,9 @@
 |17.02 (4 группа), ?? (1-3 группы)|Множества и словари|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230217_setdict.ipynb)|[HW7](/HW7.md)|
 |3.03 (4 группа), ?? (1-3 группы)|Словари, сортировки, вложенные структуры|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230303_dict_sort_structures.ipynb)||
 |10.03 (4 группа), ?? (1-3 группы)|Функции|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230310_function.ipynb)|[HW8](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW8.ipynb)|
+|14.03 (4 группа), ?? (1-3 группы)|pymorphy и повторение|[тетрадка]()||
 |17.03 (4 группа), ?? (1-3 группы)|Файлы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230317_files.ipynb)|[HW9]|
-|24.03 (4 группа), ?? (1-3 группы)|Файлы и повторение|[тетрадка]|[HW9]|
+|24.03 (4 группа), ?? (1-3 группы)|Файлы и повторение|[тетрадка]||
 
 ### Преподаватели:
 
