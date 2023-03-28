@@ -23,7 +23,7 @@
 |10.03 (4 группа), ?? (1-3 группы)|Функции|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230310_function.ipynb)|[HW8](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW8.ipynb)|
 |14.03 (4 группа), ?? (1-3 группы)|Морфологический анализатор pymorphy и повторение|[тетрадка]||
 |17.03 (4 группа), ?? (1-3 группы)|Файлы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230317_files.ipynb)|[HW9]|
-|24.03 (4 группа), ?? (1-3 группы)|Файлы и повторение|[тетрадка]||
+|24.03 (4 группа), ?? (1-3 группы)|Файлы. Частотный словарь|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/230324_files%26freqdict.ipynb)||
 
 ### Преподаватели:
 
