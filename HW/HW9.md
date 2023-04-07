@@ -1,7 +1,7 @@
 # ДЗ9
 Дедлайн: 13 апреля 23:59
 
-ДЗ можно загружать по (ссылке)[https://classroom.github.com/a/qSfPgcDh].
+ДЗ можно загружать по [ссылке](https://classroom.github.com/a/qSfPgcDh).
 
 ## Читаем
 
