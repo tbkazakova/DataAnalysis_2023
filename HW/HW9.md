@@ -1,3 +1,7 @@
+Дедлайн для все групп: 13 марта 23:59
+
+Ссылка для сдачи: https://classroom.github.com/a/qSfPgcDh
+
 ## Читаем
 
 В папке `files` два текстовых файла, названных `instruction-<ваш_вариант>-1` (например, `instruction-3-1.txt`) и `instruction-<ваш_вариант>-2`. 
