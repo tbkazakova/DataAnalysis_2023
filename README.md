@@ -23,7 +23,9 @@
 |10.03 (4 группа), ?? (1-3 группы)|Функции|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/prog/230310_function.ipynb)|[HW8](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW/HW8.ipynb)|
 |14.03 (4 группа), ?? (1-3 группы)|Морфологический анализатор pymorphy и повторение|[тетрадка]||
 |17.03 (4 группа), ?? (1-3 группы)|Файлы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/prog/230317_files.ipynb)|[HW9]|
-|24.03 (4 группа), ?? (1-3 группы)|Файлы. Частотный словарь|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/prog/230324_files%26freqdict.ipynb)||
+|24.03 (4 группа)|Файлы. Частотный словарь|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/prog/230324_files%26freqdict.ipynb)||
+|04.04 (4 группа), 11.04 (1-3 группы)|NumPy и pandas|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230404_numpy_pandas.ipynb)||
+|11.04 (4 группа), ?? (1-3 группы)|Фильтрация и сортировка|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230411_filter_sort.ipynb)||
 
 ### Преподаватели:
 
