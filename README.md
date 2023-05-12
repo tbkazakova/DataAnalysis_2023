@@ -27,7 +27,9 @@
 |04.04 (4 группа), 11.04 (1-3 группы)|NumPy и pandas|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230404_numpy_pandas.ipynb)||
 |11.04 (4 группа), 18.04 (1-3 группы)|Фильтрация и сортировка|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230411_filter_sort.ipynb)|[HW10](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/HW/HW10.ipynb)|
 |18.04 (4 группа), 25.04 (1-3 группы)|Новые столбцы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230418_newvars.ipynb)||
-|25.04 (4 группа), ? (1-3 группы)|Группировка, начало визуализации|[тетрадка]()|[HW11](HW/HW11.ipynb)|
+|25.04 (4 группа), ? (1-3 группы)|Группировка, начало визуализации|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230425_groupby.ipynb)|[HW11](HW/HW11.ipynb)|
+|12.05 (4 группа), ? (1-3 группы)|Повторение статистики|[тетрадка]|[HW12]|
+
 
 
 ### Преподаватели:
