@@ -29,7 +29,7 @@
 |18.04 (4 группа), 25.04 (1-3 группы)|Новые столбцы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230418_newvars.ipynb)||
 |25.04 (4 группа), ? (1-3 группы)|Группировка, начало визуализации|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230425_groupby.ipynb)|[HW11](HW/HW11.ipynb)|
 |12.05 (4 группа), ? (1-3 группы)|Повторение статистики, выбросы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230512_tend%26var%26outliers.ipynb)|[HW12](HW/HW12.md)|
-|16.05 (4 группа), ? (1-3 группы)|z-оценка, корреляция|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230512_tend%26var%26outliers.ipynb)|[HW13](https://drive.google.com/drive/folders/1LcPTPc7Gkxv6CrfU9qDXGjvtotQP95XI?usp=sharing)|
+|16.05 (4 группа), ? (1-3 группы)|z-оценка, корреляция|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230516_zscore_corr.ipynb)|[HW13](https://drive.google.com/drive/folders/1LcPTPc7Gkxv6CrfU9qDXGjvtotQP95XI?usp=sharing)|
 |19.05 (4 группа), ? (1-3 группы)|Линейная регрессия|[тетрадка]|[HW14]|
 
 
