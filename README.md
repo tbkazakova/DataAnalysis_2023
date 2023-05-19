@@ -30,7 +30,7 @@
 |25.04 (4 группа), ? (1-3 группы)|Группировка, начало визуализации|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230425_groupby.ipynb)|[HW11](HW/HW11.ipynb)|
 |12.05 (4 группа), ? (1-3 группы)|Повторение статистики, выбросы|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230512_tend%26var%26outliers.ipynb)|[HW12](HW/HW12.md)|
 |16.05 (4 группа), ? (1-3 группы)|z-оценка, корреляция|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230516_zscore_corr.ipynb)|[HW13](https://drive.google.com/drive/folders/1LcPTPc7Gkxv6CrfU9qDXGjvtotQP95XI?usp=sharing)|
-|19.05 (4 группа), ? (1-3 группы)|[Линейная регрессия](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230519_regression%26errors.ipynb)|[тетрадка]|[HW14]|
+|19.05 (4 группа), ? (1-3 группы)|Линейная регрессия|[тетрадка](https://github.com/tbkazakova/DataAnalysis_2023/blob/main/datan/230519_regression%26errors.ipynb)|[HW14]|
 
 
 ### Преподаватели:
